@@ -1,0 +1,23 @@
+#chat-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  #messages-container {
+    height: 200px;
+    overflow: auto;
+    margin-bottom: 10px;
+  }
+  
+  .bot-message {
+    background-color: #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .user-message {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
